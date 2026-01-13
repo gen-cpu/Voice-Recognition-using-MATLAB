@@ -88,8 +88,9 @@ This project demonstrates how **pattern recognition techniques** can be applied 
 
 ---
 
-## 👨‍💻 Author
-Mohammad Abu Hantash, Ahmad AL-Smadi
+## 👨‍💻 Authors
+Mohammad Abu Hantash
+Ahmad AL-Smadi
 
 ---
 
