@@ -1,9 +1,9 @@
 # 🎤 Voice Recognition using Pattern Recognition Techniques
 
 ## 📌 Project Description
-This project focuses on **voice recognition** as an application of **pattern recognition**. The objective is to analyze and classify human voice signals by extracting distinguishing features and applying machine learning techniques.
+This project focuses on ** voice and emotion recognition** as an application of **pattern recognition**. The objective is to analyze and classify human vooice and emotion through voice signals by extracting distinguishing features and applying machine learning techniques.
 
-The system learns unique voice patterns from audio recordings and uses them to recognize or classify speakers. This project was developed for **academic purposes** as part of a pattern recognition course.
+The system learns unique voice patterns from audio recordings and uses them to recognize or classify the speaker and their emotion. This project was developed for **academic purposes** as part of a pattern recognition course.
 
 ---
 
@@ -49,7 +49,7 @@ These features form a numerical representation of each speaker’s voice.
 ---
 
 ## 🤖 Classification
-- **Task:** Speaker recognition / classification
+- **Task:** Speaker and emotion recognition / classification
 - **Approach:** Supervised pattern recognition
 - **Input:** Extracted voice features
 - **Output:** Predicted speaker identity
@@ -80,11 +80,11 @@ These metrics measure how well the system recognizes different speakers.
 - Voice-based authentication
 - Human-computer interaction
 - Speech and audio analysis research
-
+-Sentiement Analysis
 ---
 
 ## 📌 Conclusion
-This project demonstrates how **pattern recognition techniques** can be applied to voice signals for speaker recognition. By combining signal preprocessing, feature extraction, and classification, the system effectively learns and distinguishes individual voice patterns.
+This project demonstrates how **pattern recognition techniques** can be applied to voice signals for speaker recognition. By combining signal preprocessing, feature extraction, and classification, the system effectively learns and distinguishes individual voice patterns and their emotion.
 
 ---
 
