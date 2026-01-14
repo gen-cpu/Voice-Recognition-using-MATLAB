@@ -1,4 +1,4 @@
-# 🎤 Voice Recognition using Pattern Recognition Techniques
+# 🎤 Voice and Emotion Recognition using Pattern Recognition Techniques
 
 ## 📌 Project Description
 This project focuses on ** voice and emotion recognition** as an application of **pattern recognition**. The objective is to analyze and classify human vooice and emotion through voice signals by extracting distinguishing features and applying machine learning techniques.
